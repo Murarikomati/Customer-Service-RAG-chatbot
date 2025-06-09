@@ -1,0 +1,22 @@
+# Exclude langchain folder
+langchain/
+Retails-DB/
+
+# Optional: Ignore virtual environment
+venv/
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore environment variables
+# .env
+
+# Ignore VS Code settings (optional)
+.vscode/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+# Igore python files
+helper1.py
